@@ -1,0 +1,6 @@
+framework module LBPopupView {
+  umbrella header "LBPopupView.h"
+
+  export *
+  module * { export * }
+}
